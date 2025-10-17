@@ -16,3 +16,6 @@ print(type(num))
 print(type(decimal))
 print(type(texto))
 print(type(isFalse))
+
+# print es para mostrar en consola
+# type es para 
