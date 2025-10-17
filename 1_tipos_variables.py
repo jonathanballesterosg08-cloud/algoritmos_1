@@ -2,7 +2,7 @@ int
 float
 str
 bool
-# ejemplos de dstos tipos int
+# ejemplos de datos tipos int
 num = 3
 # ejemplos de datos tipo float
 decimal = 3.5
